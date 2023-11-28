@@ -1,3 +1,3 @@
 # Learning-java
 
-## open develop branch
+## This repository contains all the content seen during my Java learning
