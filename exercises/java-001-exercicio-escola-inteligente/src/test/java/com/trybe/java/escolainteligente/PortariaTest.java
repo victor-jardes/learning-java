@@ -50,7 +50,6 @@ public class PortariaTest {
         "\n" +
         "----- Percentual -----\n" +
         "Ensino Fundamental I: 33.3%\n" +
-        "Ensino Fundamental I: 33.3%\n" +
         "Ensino Fundamental II: 33.3%\n" +
         "Ensino Médio: 33.3%\n" +
         "\n" +
